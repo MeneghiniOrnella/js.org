@@ -1876,6 +1876,7 @@ var cnames_active = {
   "orango": "roboncode.github.io/orango",
   "orga": "orgapp.github.io/orgajs",
   "origami": "origami-cms.github.io/cms",
+  "ornella-m": "https://meneghiniornella.github.io/PortafolioCOMeneghini/",
   "osagai": "henriquelimas.github.io/osagai",
   "oscillator": "lukehorvat.github.io/super-oscillator",
   "osom": "kikobeats.github.io/osom",
